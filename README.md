@@ -1,2 +1,2 @@
 # Articles-Classification
-In this project i will design an algorithm which helps to classify the given article i.e it is sports based article or political article and i'll separate it .
+Article classification is the project in which we have different news based articles. These articles are of different categories like entertainment articles,crime articles,political articles etc. etc. In this project such an algorithm will be designed that these articles will be classified according to their categories. Once they got classified we will make their clusters/groups according to their categories.
